@@ -26,7 +26,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'g=idoh$8_#jk)bmnk6n)&&w2i02@=hq&o3-4p@w$^n%pyhksq7'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['boutique-ado-project-v1.herokuapp.com', 'localhost']
 
